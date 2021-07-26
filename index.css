@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Playfair+Display&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+  * {
+    margin: 0;
+    padding: 0;
+  }
+body{
+   background-color:mediumseagreen; 
+   display:block;
+    text-align: center;
+    line-height: 60px;
+padding:150px;
+font-size: 20px;
+}
+#message-el{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+font-style: italic;
+color: white;
+}
+p{
+    color: white;
+}
+h1{
+    color: goldenrod;
+    font-weight: bolder;
+}
+button{
+    color:White;
+    background-color: goldenrod;
+    width:150px;
+    text-align: center;
+    line-height: 20px;
+    font-style: bold;
+    border-radius: 2px;
+    border: none;
+    padding:10px;
+}
