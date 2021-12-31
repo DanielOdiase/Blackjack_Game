@@ -1,2 +1,2 @@
 # Blackjack_Game
- This is a blackjack game learning project
+ This is a basic black Jack Game logic test
